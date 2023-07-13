@@ -1,0 +1,46 @@
+body {
+    background-color: burlywood;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    color:#573929;
+    width: 840px;
+    margin: auto;
+}
+
+#banner {
+    background-color: #35A29F;
+    color: #573929;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px;
+    background-image: url(https://images.unsplash.com/photo-1544640808-32ca72ac7f37?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=735&q=80);
+}
+
+#menulist {
+    padding: 0;
+    position: relative;
+    overflow: auto;
+}
+.menuitem {
+    width : 130px;
+    float : left; 
+    background-color: 
+    #84441c;
+    list-style-type: none;
+    margin: 5px;
+    padding: 10px;
+    text-align: center;
+    cursor:pointer;
+}
+
+#menulist li a {
+    color: white;
+    text-decoration: none;
+}
+h2{
+    text-align: center;
+}
+.center image{
+    margin-left: auto;
+    margin-right: auto;
+    
+}
